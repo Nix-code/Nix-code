@@ -11,7 +11,7 @@
 
 
 
- [Check the latest blogs](https://arti-brum.herokuapp.com/Blogs)
+ [Check out my latest blogs](https://arti-brum.herokuapp.com/Blogs)
 <br />
 
 <br />
