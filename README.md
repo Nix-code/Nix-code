@@ -6,12 +6,12 @@
 
 - I write blogs in my free time.
 -  I’m currently doing my B.tech in Data Science
-- I’m passionate Deep Learning projects.
+- I’m passionate on Machine Learning and  Deep Learning .
 - I like playing guitar and web development is my hobby.
 
 
 
-
+ [Check the latest blogs](https://arti-brum.herokuapp.com/Blogs)
 <br />
 
 <br />
