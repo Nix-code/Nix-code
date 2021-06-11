@@ -6,7 +6,7 @@
 
 - I write blogs in my free time.
 -  I’m currently doing my B.tech in Data Science
-- I’m focusing more on Deep Learning projects.
+- I’m passionate Deep Learning projects.
 - I like playing guitar and web development is my hobby.
 
 
