@@ -19,9 +19,9 @@
 
 
  [Check out my latest blogs](https://nixhantme.herokuapp.com/Blogs)
-<br />
+<br/>
 
-<br />
-<br />
+<br/>
+<br/>
 
 
