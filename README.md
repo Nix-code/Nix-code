@@ -2,14 +2,14 @@
 - I am Nishant !!
 
  [My portfolio ](https://nixhantme.herokuapp.com/)<br>
- ![](https://komarev.com/ghpvc/?username=Nix-code)
 
-#### I am Data Science , Machine Learning , and Deep Learning Enthusiast who loves to explore new tools and technology.
+
+#### I am Data Science , Machine Learning , and Deep Learning learner who adores to explore new tools and technology.
 
 - I write blogs in my free time.
 - I’m currently doing my B.tech in Data Science
 - I’m passionate on Machine Learning and  Deep Learning .
-- I like playing guitar and web development is my hobby.
+- I love doing web development and deployment of ML models
 
 **Language Used**
 
