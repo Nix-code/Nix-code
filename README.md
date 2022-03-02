@@ -1,7 +1,7 @@
 ### Hi, everyone !
 - I am Nishant !!
 
- [My portfolio ](https://nixhantme.herokuapp.com/)
+ [My portfolio ](https://nixhantme.herokuapp.com/)<br>
  ![](https://komarev.com/ghpvc/?username=Nix-code)
 
 #### I am Data Science , Machine Learning , and Deep Learning Enthusiast who loves to explore new tools and technology.
