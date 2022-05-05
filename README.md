@@ -6,9 +6,9 @@
 
 #### I am Data Science , Machine Learning , and Deep Learning learner who adores to explore new tools and technology.
 - Currently learning MLops and interested towards maintaining machine learning pipelines.
-- I write blogs in my free time.
+- I write blogs about tech
 - I’m currently doing my B.tech in Data Science
-- I’m passionate on Machine Learning and  Deep Learning .
+- I’m passionate about Machine Learning and  Deep Learning 
 - I love doing web development and deployment of ML models
 
 **Language Used**
